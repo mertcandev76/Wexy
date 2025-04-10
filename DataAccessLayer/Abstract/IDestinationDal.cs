@@ -9,13 +9,6 @@ namespace DataAccessLayer.Abstract
 {
     public interface IDestinationDal:IGenericDal<Destination>
     {
-        //void Insert(Destination destination);
-        //void Delete(Destination destination);
-        //void Update(Destination destination);
-        //List<Destination> GetList();
-
-
-
-
+      
     }
 }
