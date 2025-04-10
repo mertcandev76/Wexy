@@ -9,7 +9,7 @@ namespace EntityLayer.Concrete
 {
     public class Feature2
     {
-
+        [Key]
         public int Feature2ID { get; set; }
 
         public string Title { get; set; }

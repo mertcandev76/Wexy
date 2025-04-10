@@ -9,7 +9,7 @@ namespace EntityLayer.Concrete
 {
     public class Destination
     {
-     
+        [Key]
         public int DestinationID { get; set; }
         public string City { get; set; }
         public string DayNight { get; set; }
