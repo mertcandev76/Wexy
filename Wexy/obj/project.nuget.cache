@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "VyCwsh6vRXPgLjhc/MBU7DAn+CmHXz/9GgsvGMCvALo5kxFduL5k+dL90JTiHf8Q0pY3Qg4+s2bMj35B7TLM1w==",
+  "dgSpecHash": "D2TsoTstSyKVjjDY5wRy53EbSzkt5HECw41xTag/1QxGjJljGiUyjASd1ShKQvoz+tumj8xsJOKQWqyYlq4mRA==",
   "success": true,
   "projectFilePath": "C:\\Users\\adsiz\\OneDrive\\Masaüstü\\CoreWexy\\Wexy\\Wexy\\Wexy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adsiz\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\adsiz\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\adsiz\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\adsiz\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\adsiz\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\adsiz\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\adsiz\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\adsiz\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
