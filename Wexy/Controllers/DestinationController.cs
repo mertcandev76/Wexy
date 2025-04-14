@@ -17,6 +17,7 @@ namespace Wexy.Controllers
         [HttpGet]
         public IActionResult DestinationDetails(int id)
         {
+            ViewBag.Id = id;
             var values = destinationManager.TGetByID(id);
             if (values == null)
             {
